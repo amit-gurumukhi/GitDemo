@@ -1,1 +1,2 @@
 this is the line writtern to check how we can use beyond compare.
+this is the line which is appended in new file.and we will copy this text to the branch which we are going to create
